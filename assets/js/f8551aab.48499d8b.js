@@ -1,0 +1,1 @@
+(self.webpackChunklight_dance_doc=self.webpackChunklight_dance_doc||[]).push([[743],{7574:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var c=t(7294),a=t(6016);function l(){return c.createElement(a.Z,null,c.createElement("h1",null,"My React page"),c.createElement("p",null,"This is a React page"))}}}]);
