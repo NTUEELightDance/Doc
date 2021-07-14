@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'NTUEE LightDance',
   tagline: 'Light Dance Performance',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ntueelightdance.github.io',
+  baseUrl: '/Doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'NTUEELightDance', // Usually your GitHub org/user name.
-  projectName: 'LightDance', // Usually your repo name.
+  projectName: 'Doc', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'NTUEE LightDance',
